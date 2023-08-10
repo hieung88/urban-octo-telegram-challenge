@@ -2,7 +2,7 @@
 
 Changes:
 1. Update website title.
-2. Update "div" to "header", "section", and "footer".
+2. Update "div" to "header", "section", "article" and "footer".
 3. Add id="search-engine-optimization" to fix the destination link.
 4. Add "alt" for pictures.
 5. Add comments for separate sections.
